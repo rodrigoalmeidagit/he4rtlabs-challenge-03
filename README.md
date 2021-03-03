@@ -3,6 +3,7 @@
 ## Objetivo do projeto:
 Um formulário de transição única para exercitar conceitos base tanto de frontend quanto de backend!
 
+<<<<<<< HEAD
 &nbsp; 
 &nbsp; 
 ![alt text](https://camo.githubusercontent.com/d584cb503ca4d6af52e0e6aa85d68701afea7b7e91be2adf2fef596642a273fe/68747470733a2f2f692e696d6775722e636f6d2f4c5744586959782e676966)
@@ -34,3 +35,17 @@ Um formulário de transição única para exercitar conceitos base tanto de fron
 [Link para o repositório oficial do desafio:](https://github.com/he4rtlabs/he4rtlabs-challenges-03)  
 &nbsp; 
 
+=======
+- Frontend
+
+* Criar dois formulários (um de login, e outro de registro) onde a transição seja feita de uma forma suave (representado no gif), criando um efeito como se fosse o mesmo formulário.
+
+
+- Desafios Extras
+
+* Realizar a verificação de entrada dos dados (tamanho mínimo, existência de conteúdo nos campos.
+
+* Criar toda a dinâmica utilizando apenas o DOM, tendo no index.html apenas uma única div estando no body, e inserir os conteúdos por meio desta div.
+
+* Criar um dashboard.
+>>>>>>> 56cbfeff1c71e38d56fcc4cae1c21bd132b2189a
