@@ -2,10 +2,9 @@
 
 ## Objetivo do projeto:
 Um formulário de transição única para exercitar conceitos base tanto de frontend quanto de backend!
-
-<<<<<<< HEAD
+ 
 &nbsp; 
-&nbsp; 
+&nbsp;
 ![alt text](https://camo.githubusercontent.com/d584cb503ca4d6af52e0e6aa85d68701afea7b7e91be2adf2fef596642a273fe/68747470733a2f2f692e696d6775722e636f6d2f4c5744586959782e676966)
 
 &nbsp;
