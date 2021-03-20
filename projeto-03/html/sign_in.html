@@ -11,28 +11,31 @@
 </head>
 
 <body>
-  <main class="container">
 
+  <main class="main-container">
     <header class="header">
       <h2 class="title">Realizar Login</h2>
       <img src="../img/logo-black-150px.png" alt="">
     </header>
-    <form class="inputs">
-      <input type="email" class="input" placeholder="Digite o seu e-mail">
-      <div class="password-container">
-        <input type="password" class="input" placeholder="Digite a sua senha">
-        <i class="fas fa-eye" id="eye"></i>
-        <i class="fas fa-eye-slash" id="eye-off"></i>
-      </div>
-    </form>
-    <section class="footer">
-      <span class="span">Ainda não possui conta?
-        Clique <a href="">aqui</a>
-      </span>
-      <button class="button">Entrar</button>
-    </section>
 
+    <form class="form-container">
+      <section class="inputs-container">
+        <input type="email" placeholder="Digite seu e-mail">
+        <div class="password-container">
+          <input type="password" class="field-password" placeholder="Digite sua senha">
+          <i class="far fa-eye"></i>
+          <i class="far fa-eye-slash"></i>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <span>Não tem uma conta? Clique aqui</span>
+        <button>Entrar</button>
+      </footer>
+
+    </form>  
   </main>
+
   <script src="../js/main.js"></script>
 </body>
 
