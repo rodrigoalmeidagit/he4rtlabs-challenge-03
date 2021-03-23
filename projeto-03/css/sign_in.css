@@ -31,14 +31,21 @@ body {
   padding: 10px;
 }
 
-.inputs-container {
+.inputs {
   width: 90%;
+  margin-top: 10px;
+
 }
 
-.form-container {
+.password-container {
+  position: relative;
 }
 
 .footer {
+  width: 90%;
+  margin-top: 10px;
   display: flex;
+  font-size: 12px;
   justify-content: space-around;
+  align-items: center;
 }
