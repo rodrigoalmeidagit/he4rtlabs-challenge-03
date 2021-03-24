@@ -6,28 +6,37 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../css/sign_up.css">
+  <script src="https://kit.fontawesome.com/47c054c66f.js" crossorigin="anonymous"></script>
   <title>he4rt - Challenge 03</title>
 </head>
 
 <body>
-  <main class="container">
+
+  <main class="main-container">
 
     <header class="header">
       <h2 class="title">Criar Conta</h2>
-      <img src="../img/logo-black-150px.png" alt="">
+      <img src="../img/logo-white.png" alt="">
     </header>
-    <form class="inputs">
-      <input type="text" class="input" placeholder="Digite o seu e-mail">
-      <input type="text" class="input" placeholder="Digite a sua senha">
-    </form>
-    <section class="footer">
-      <span class="span">Já possui uma conta?
-        Clique <a href="">aqui</a>
-      </span>
-      <button class="button">Registrar</button>
-    </section>
 
+    <form class="form-container">
+      <div>
+        <input type="email" class="input" placeholder="Digite seu e-mail">
+      </div>
+      <div class="password-container">
+        <input type="password" class="input field-password" placeholder="Digite sua senha">
+        <i class="far fa-eye"></i>
+        <i class="far fa-eye-slash"></i>
+      </div>
+
+      <footer class="footer">
+        <span>Já possui uma conta? Clique <a href="#">aqui</a></span>
+        <button>Registrar</button>
+      </footer>
+
+    </form>
   </main>
+
   <script src="../js/main.js"></script>
 </body>
 
