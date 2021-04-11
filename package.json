@@ -1,0 +1,20 @@
+{
+  "name": "he4rtlabs-challenge-03",
+  "version": "1.0.0",
+  "description": "## Objetivo do projeto: Um formulário de transição única para exercitar conceitos base tanto de frontend quanto de backend!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoalmeidagit/he4rtlabs-challenge-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoalmeidagit/he4rtlabs-challenge-03/issues"
+  },
+  "homepage": "https://github.com/rodrigoalmeidagit/he4rtlabs-challenge-03#readme"
+}
